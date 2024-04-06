@@ -4,7 +4,7 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 ########################################
 # Update connection string information #
 ########################################
-host = "bikesharingpostgresdb.postgres.database.azure.com"
+host = "bikesharingpostgresql.postgres.database.azure.com"
 user = "pyadmin"
 password = "Bluesky1"
 
